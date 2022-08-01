@@ -71,3 +71,5 @@ setInterval(() => {
 function updateScore(score) {
     scoreCont.innerHTML = "Your Score: " + score
 }
+
+     
